@@ -1,3 +1,8 @@
+# Neha's First CS193 Homework
+- We get to learn things we need for future jobs
+- We will be able to do better in other cs classes with this information
+- I can finally learn how to use GitHub!
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
